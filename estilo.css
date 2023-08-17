@@ -1,0 +1,81 @@
+body {
+    background: #925b5b url('assets/fundo3.png');
+    font: 16px Arial, sans-serif;
+}
+
+#principal{
+    width: 900px;
+    text-align: center;
+}
+
+#rodape{
+    width: 900px;
+    text-align: center;
+}
+
+#conteudo{
+    color: #3d1818;
+    text-align: center;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.img-fotoperfil{
+    border: 10px solid #c3aeae;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Centralizar os ícones com os respectivos textos */
+.contato {
+    width: 142%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: center
+}
+
+.img-icon {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+h1{
+    width: 150%;
+    padding: 10px;
+    color:#827171;
+    text-align: center;
+}
+
+p{
+    padding: 5px;
+    color:#827171;
+    text-align: center;
+}
+
+h2{
+    width: 150%;
+    padding: 5px;
+    color:#827171;
+    text-align: center;
+}
+/* Ajustar o espaçamento do cabeçalho */
+header {
+    width: 87%;
+    padding: 20px;
+    text-align: center;
+}
+
+a{
+    color: #6a4b4b;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
